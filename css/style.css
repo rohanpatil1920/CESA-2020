@@ -1,0 +1,58 @@
+.h {
+    margin-top: 20px;
+    height: 150px;
+    width: 150;
+    background-size: cover;
+    border-radius: 50px;
+    align-content: center;
+}
+
+.heading-text {
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+
+/* .info{
+    height: 20px;
+    background-color: aqua;
+} */
+
+.name {
+    margin-top: 10px;
+}
+
+.header {
+    height: 100px;
+    margin-right: 5%;
+}
+
+.profile {
+    margin-top: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    /* padding-block: 40px; */
+    background-color: rgba(233, 238, 247, 0.8);
+    border-radius: 20px;
+}
+
+.event-header {
+    /* size: 30px; */
+    padding-top: 30px;
+    text-align: center;
+    color: green;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+#back {
+    position: absolute;
+    display: block;
+    min-width: 100%;
+    min-height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
